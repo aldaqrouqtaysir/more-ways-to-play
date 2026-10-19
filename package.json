@@ -1,0 +1,17 @@
+{
+  "name": "more-ways-to-play",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Original illustrative tactical graphics from the ICAIS 2026 first-place Student AI Challenge film.",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "render": "node src/render-tactics.cjs",
+    "render:sequence": "node src/render-tactics.cjs --sequence --fps 24 --start 40.8 --duration 12 --out renders/sequence"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "0.1.100"
+  }
+}
