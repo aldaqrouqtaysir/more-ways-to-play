@@ -37,8 +37,6 @@ ICAIS was hosted by UAEU, with Al Ain Sports and Cultural Club as strategic spor
 | Adaptive practice | Fictional future-training cinematics | Imagine how coaching could adapt to an athlete |
 | More ways to play | Human-centred closing and conference identity | Bring the story back to participation |
 
-This is a **film and production showcase**, not a released coaching application. The tactical alternatives are authored illustrations, not AI predictions. The future-training scenes illustrate a possibility, not an installed or clinically evaluated system.
-
 ## Scenes from the film
 
 Every image below is a frame taken directly from the final film, with its original composition, graphics and subtitles.
@@ -57,7 +55,7 @@ The cover is the film's closing title over the juggling footage at **1:42.00**. 
 
 ## Original graphics component
 
-The repository also includes a portable adaptation of the programmed tactical graphics. It can render illustrative frames without any footage or narration. The README images above come from the completed film, rather than this adaptation.
+The repository includes a standalone adaptation of the programmed tactical graphics, with a projective pitch, animated player movement and alternative passing routes.
 
 ### Run the renderer
 
@@ -74,7 +72,7 @@ Three 1920 × 1080 PNGs are written to `renders/`. To render a short image seque
 npm run render:sequence
 ```
 
-The component uses its own internal timeline, not the final film's timestamps. See [production notes](docs/PRODUCTION.md) for the scope and options. It does not reproduce the full film or run person detection.
+See [production notes](docs/PRODUCTION.md) for the component's timeline, rendering options and implementation.
 
 ## Film and accessibility
 
@@ -93,4 +91,4 @@ Thank you to **Prof. Fady Alnajjar** and **Mr. Basheir Al-Rei** for their feedba
 
 Music: **“A Kind Of Hope” by Scott Buckley**, released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). [Track and creator](https://www.scottbuckley.com.au/library/a-kind-of-hope/). The music was excerpted, rearranged, mixed and faded for the film.
 
-See [full credits](CREDITS.md) and [rights and reuse](RIGHTS.md). No blanket open-source licence is granted for the film, repository or third-party materials. Raw footage, music, narration, production credentials and the video master are not distributed here.
+See [full credits](CREDITS.md) and [rights and reuse](RIGHTS.md) for source acknowledgements and reuse permissions.

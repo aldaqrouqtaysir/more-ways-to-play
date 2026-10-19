@@ -34,10 +34,10 @@ Stock footage remains subject to its source terms. The Al Ain documentary materi
 
 ## Graphics, narration and AI assistance
 
-- README cinematics are direct frame grabs from the final film. They retain the film's existing artwork, subtitles and source credits; they are not newly generated showcase images.
+- README cinematics are direct frame grabs from the final film, retaining its artwork, subtitles and source credits.
 - Original programmed tactical and title graphics; a portable tactical component is included in `src/`.
 - Actual anonymous person detection using OpenCV Zoo YOLOX.
-- English narration: paid ElevenLabs Savvy. No entrant-created voice clone.
+- English narration: paid ElevenLabs Savvy.
 - Fictional future-training scenes: Veo 3.1 through paid ElevenLabs Image & Video.
 - Selected picture restoration: Topaz and Real-ESRGAN.
 - OpenAI Codex assisted research, scripting, Arabic review, graphics, editing and quality checks under the entrant's creative direction.
