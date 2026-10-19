@@ -2,7 +2,9 @@
 
 **First Place · Student AI Challenge · ICAIS 2026**
 
-An award-winning short film about AI-assisted coaching, athlete agency, and making sport more accessible, including for People of Determination.
+A first-place film in the ICAIS 2026 Student AI Challenge, screened during the conference's opening ceremony.
+
+**More Ways to Play** combines computer vision, original tactical visualizations and storytelling to explore how AI could support coaching and make sport more accessible, including for People of Determination.
 
 [![More Ways to Play — the final film's title over the football juggling scene](assets/film-title.jpg)](https://drive.google.com/file/d/1Dan57P498kJB_SiNYuy8Uqsq48UVTwYS/view)
 
